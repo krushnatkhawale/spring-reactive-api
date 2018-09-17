@@ -1,0 +1,4 @@
+rootProject.name = 'spring-reactive-api'
+
+include '01-resource-nodb'
+include '02-resource-mongodb'
